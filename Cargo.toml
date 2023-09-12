@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["thread_pool", "game", "server", "game_state"]
